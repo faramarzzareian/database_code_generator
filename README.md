@@ -25,4 +25,4 @@
 
 ###### Please note that the generated SQL code assumes the database name will be used as the table name. Modify the CREATE TABLE statement if you wish to use a different table name.
 
-####### Feel free to modify and enhance this tool to suit your specific requirements. Happy coding!
+###### Feel free to modify and enhance this tool to suit your specific requirements. Happy coding!
