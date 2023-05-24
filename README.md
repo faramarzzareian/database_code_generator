@@ -8,6 +8,8 @@
     Generate SQL: Upon clicking the "Generate SQL" button, the tool generates the SQL code for creating the specified database and table. The generated SQL code includes the CREATE DATABASE, USE, and CREATE TABLE statements.
     Data Insertion: Users can enter data to be inserted into the table. For each column, the user can input data separated by commas. The tool validates that the number of values entered for each column is consistent.
     Generate Insert SQL: By clicking the "Insert Data" button, the tool generates the SQL code for inserting the provided data into the table. The generated SQL code includes the INSERT INTO statement and the corresponding values.
+    
+![Screenshot 2023-05-24 at 18-14-36 database · Streamlit](https://github.com/faramarzzareian/database_code_generator/assets/5400662/0324fc99-0448-4058-be7f-b95aa5b291dc)
 
 # Usage
 
